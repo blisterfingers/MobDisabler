@@ -2,8 +2,8 @@
 {
   "modid": "MobDisabler",
   "name": "Villain's Mob Disabler",
-  "description": "Disables certain vanilla mobs.",
-  "version": "1.0",
+  "description": "Can disable vanilla mobs based on configuration. NB: You will need a way to acquire the drops that are no longer available.",
+  "version": "1.1",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
